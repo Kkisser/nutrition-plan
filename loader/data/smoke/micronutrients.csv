@@ -1,0 +1,7 @@
+nutrient_id,name,norm_unit,ul_value
+ca,Кальций,mg,2500.0000
+fe,Железо,mg,45.0000
+mg,Магний,mg,800.0000
+k,Калий,mg,
+zn,Цинк,mg,25.0000
+vit_d,Витамин D,mcg,100.0000

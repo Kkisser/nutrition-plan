@@ -1,0 +1,2 @@
+external_id,name,instruction,cook_time_min,base_portions,meal_type
+example_dish,Пример блюда,"Шаги приготовления, через '. '.",15,1,lunch

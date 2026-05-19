@@ -1,0 +1,53 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: nutrition
+      POSTGRES_USER: nutrition
+      POSTGRES_PASSWORD: nutrition
+    volumes:
+      - pg-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nutrition -d nutrition"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  migrate:
+    image: alpine:3.20
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./core/db/migrations:/migrations:ro
+    entrypoint:
+      - sh
+      - -c
+      - |
+        apk add --no-cache curl &&
+        curl -L https://github.com/pressly/goose/releases/download/v3.27.0/goose_linux_x86_64 -o /usr/local/bin/goose &&
+        chmod +x /usr/local/bin/goose &&
+        goose -dir /migrations postgres "postgres://nutrition:nutrition@postgres:5432/nutrition?sslmode=disable" up
+
+  core:
+    build: ./core
+    depends_on:
+      migrate:
+        condition: service_completed_successfully
+    environment:
+      DATABASE_DSN: postgres://nutrition:nutrition@postgres:5432/nutrition?sslmode=disable
+      CORE_HTTP_ADDR: ":8086"
+      CORE_JWT_SECRET: ${CORE_JWT_SECRET:-change-me-in-prod}
+      PRICE_SERVICE_URL: ${PRICE_SERVICE_URL:-}
+    ports:
+      - "8086:8086"
+
+  web:
+    build: ./web
+    depends_on:
+      - core
+    ports:
+      - "8080:80"
+
+volumes:
+  pg-data:

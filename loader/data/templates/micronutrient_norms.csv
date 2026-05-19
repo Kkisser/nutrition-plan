@@ -1,0 +1,7 @@
+nutrient_id,sex,age_group,norm_value
+ca,male,18-29,1000.0000
+ca,female,18-29,1000.0000
+fe,male,18-29,10.0000
+fe,female,18-29,18.0000
+vit_d,male,18-29,15.0000
+vit_d,female,18-29,15.0000

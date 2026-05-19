@@ -1,0 +1,22 @@
+[project]
+name = "loader"
+version = "0.1.0"
+description = "CSV → PostgreSQL загрузчик справочников питания (Скурихин-Тутельян + МР 2.3.1.0253-21)"
+requires-python = ">=3.11"
+dependencies = [
+    "psycopg[binary]>=3.2",
+    "click>=8.1",
+]
+
+[project.scripts]
+loader = "loader.cli:main"
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["loader", "loader.sources"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

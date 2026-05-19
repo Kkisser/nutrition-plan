@@ -1,0 +1,37 @@
+# --- зависимости / билд-артефакты ---
+node_modules/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+
+# --- виртуальные окружения ---
+.venv/
+venv/
+env/
+
+# --- логи и runtime-артефакты ---
+*.log
+.pids/
+test-results/
+playwright-report/
+playwright/.cache/
+
+# --- секреты / локальные env ---
+.env
+.env.local
+.env.*.local
+
+# --- система ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+
+# --- большие архивы (доступны отдельно) ---
+Документация_ВКР.zip
+price-service.zip

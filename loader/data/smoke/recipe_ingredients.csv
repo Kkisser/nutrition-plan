@@ -1,0 +1,309 @@
+recipe_external_id,product_name,amount,unit
+oats_apple,Овсянка,60,g
+oats_apple,Молоко 3.2%,200,ml
+oats_apple,Яблоко,100,g
+cottage_nuts,Творог 9%,150,g
+cottage_nuts,Орехи грецкие,20,g
+omelet_tomato,Яйцо куриное,120,g
+omelet_tomato,Помидор,50,g
+omelet_tomato,Масло сливочное,5,g
+oats_banana,Овсянка,60,g
+oats_banana,Молоко 3.2%,200,ml
+oats_banana,Банан,100,g
+buckwheat_milk,Гречка,60,g
+buckwheat_milk,Молоко 3.2%,200,ml
+buckwheat_milk,Масло сливочное,5,g
+rice_apple,Рис белый,60,g
+rice_apple,Молоко 3.2%,200,ml
+rice_apple,Яблоко,80,g
+millet_milk,Пшено,60,g
+millet_milk,Молоко 3.2%,200,ml
+millet_milk,Масло сливочное,5,g
+greek_yogurt_banana,Йогурт греческий,150,g
+greek_yogurt_banana,Банан,100,g
+greek_yogurt_banana,Орехи грецкие,10,g
+omelet_spinach,Яйцо куриное,120,g
+omelet_spinach,Шпинат,50,g
+omelet_spinach,Сыр Российский,20,g
+buckwheat_chicken,Гречка,80,g
+buckwheat_chicken,Куриное филе,150,g
+buckwheat_chicken,Морковь,50,g
+veggie_salad,Помидор,100,g
+veggie_salad,Морковь,80,g
+veggie_salad,Масло подсолнечное,10,ml
+chicken_potato,Куриное филе,150,g
+chicken_potato,Картофель,200,g
+chicken_potato,Масло подсолнечное,10,ml
+beef_buckwheat,Говядина,150,g
+beef_buckwheat,Гречка,80,g
+beef_buckwheat,Морковь,50,g
+chicken_apple_salad,Куриное филе,100,g
+chicken_apple_salad,Яблоко,80,g
+chicken_apple_salad,Морковь,50,g
+chicken_apple_salad,Масло подсолнечное,5,ml
+buckwheat_egg,Гречка,80,g
+buckwheat_egg,Яйцо куриное,60,g
+buckwheat_egg,Морковь,50,g
+turkey_rice,Индейка,150,g
+turkey_rice,Рис белый,70,g
+turkey_rice,Брокколи,100,g
+beef_pasta,Говядина,120,g
+beef_pasta,Макароны,80,g
+beef_pasta,Лук репчатый,30,g
+beef_pasta,Помидор,80,g
+turkey_pearl_barley,Индейка,150,g
+turkey_pearl_barley,Перловка,80,g
+turkey_pearl_barley,Морковь,50,g
+chicken_veggie_bowl,Куриное филе,120,g
+chicken_veggie_bowl,Рис белый,60,g
+chicken_veggie_bowl,Огурец,80,g
+chicken_veggie_bowl,Перец сладкий,80,g
+chicken_veggie_bowl,Масло оливковое,10,ml
+fresh_salad_egg,Яйцо куриное,120,g
+fresh_salad_egg,Помидор,80,g
+fresh_salad_egg,Огурец,80,g
+fresh_salad_egg,Масло оливковое,10,ml
+salmon_buckwheat,Лосось,150,g
+salmon_buckwheat,Гречка,60,g
+lentil_soup,Чечевица,100,g
+lentil_soup,Морковь,50,g
+lentil_soup,Картофель,100,g
+salmon_vegetables,Лосось,150,g
+salmon_vegetables,Картофель,100,g
+salmon_vegetables,Морковь,80,g
+salmon_vegetables,Масло подсолнечное,5,ml
+chicken_broth,Куриное филе,100,g
+chicken_broth,Морковь,50,g
+chicken_broth,Картофель,100,g
+chicken_broth,Яйцо куриное,60,g
+cod_veggie,Треска,180,g
+cod_veggie,Морковь,80,g
+cod_veggie,Лук репчатый,50,g
+cod_veggie,Кабачок,150,g
+mackerel_potato,Скумбрия,150,g
+mackerel_potato,Картофель,200,g
+white_bean_stew,Фасоль белая,100,g
+white_bean_stew,Морковь,80,g
+white_bean_stew,Лук репчатый,50,g
+white_bean_stew,Помидор,100,g
+turkey_brokkoli,Индейка,150,g
+turkey_brokkoli,Брокколи,200,g
+turkey_brokkoli,Масло оливковое,10,ml
+cabbage_chicken,Капуста белокочанная,200,g
+cabbage_chicken,Куриное филе,150,g
+cabbage_chicken,Лук репчатый,50,g
+cheese_sandwich,Хлеб ржаной,50,g
+cheese_sandwich,Сыр Российский,30,g
+cheese_sandwich,Масло сливочное,5,g
+banana_nuts,Банан,100,g
+banana_nuts,Орехи грецкие,20,g
+cottage_apple,Творог 9%,100,g
+cottage_apple,Яблоко,80,g
+apple_nuts,Яблоко,100,g
+apple_nuts,Орехи грецкие,15,g
+kefir_apple,Кефир 1%,250,ml
+kefir_apple,Яблоко,100,g
+yogurt_nuts,Йогурт греческий,150,g
+yogurt_nuts,Орехи грецкие,15,g
+cucumber_cottage,Творог 9%,100,g
+cucumber_cottage,Сметана 15%,20,g
+cucumber_cottage,Огурец,100,g
+keto_avocado_eggs,Яйцо куриное,100,g
+keto_avocado_eggs,Авокадо,100,g
+keto_avocado_eggs,Бекон копчёный,30,g
+keto_avocado_eggs,Масло оливковое,10,ml
+keto_cheese_omelet,Яйцо куриное,100,g
+keto_cheese_omelet,Сыр Чеддер,50,g
+keto_cheese_omelet,Сливки 33%,30,ml
+keto_cheese_omelet,Масло сливочное,15,g
+keto_cottage_coconut,Творог 9%,200,g
+keto_cottage_coconut,Сметана 30%,40,g
+keto_cottage_coconut,Кокосовая стружка,20,g
+keto_cottage_coconut,Орехи грецкие,20,g
+keto_salmon_cream,Лосось,150,g
+keto_salmon_cream,Сливки 33%,100,ml
+keto_salmon_cream,Шпинат,60,g
+keto_salmon_cream,Масло оливковое,15,ml
+keto_salmon_cream,Сметана 30%,40,g
+keto_seabass_sour,Сёмга,150,g
+keto_seabass_sour,Сметана 30%,80,g
+keto_seabass_sour,Огурец,100,g
+keto_seabass_sour,Масло оливковое,15,ml
+keto_pork_cream,Свинина мясная,200,g
+keto_pork_cream,Сметана 30%,50,g
+keto_pork_cream,Брокколи,100,g
+keto_steak_butter,Говядина,200,g
+keto_steak_butter,Масло сливочное,40,g
+keto_steak_butter,Брокколи,100,g
+keto_steak_butter,Сметана 30%,50,g
+keto_duck_cream,Утка,150,g
+keto_duck_cream,Куриное филе,50,g
+keto_duck_cream,Сметана 30%,60,g
+keto_duck_cream,Шпинат,60,g
+keto_chicken_cream,Куриное бедро с кожей,200,g
+keto_chicken_cream,Сливки 33%,80,ml
+keto_chicken_cream,Масло сливочное,20,g
+keto_chicken_cream,Брокколи,80,g
+keto_mackerel_lemon,Скумбрия,200,g
+keto_mackerel_lemon,Масло сливочное,30,g
+keto_mackerel_lemon,Масло оливковое,15,ml
+keto_mackerel_lemon,Лимон,20,g
+keto_mackerel_lemon,Шпинат,80,g
+keto_cheese_plate,Сыр Бри,50,g
+keto_cheese_plate,Сыр Чеддер,30,g
+keto_cheese_plate,Орехи грецкие,20,g
+keto_avocado_cottage,Авокадо,100,g
+keto_avocado_cottage,Творог 9%,100,g
+keto_avocado_cottage,Сметана 30%,30,g
+keto_avocado_cottage,Орехи грецкие,10,g
+keto_almond_mix,Миндаль,30,g
+keto_almond_mix,Кокосовая стружка,25,g
+keto_almond_mix,Орехи грецкие,20,g
+keto_almond_mix,Сыр Чеддер,30,g
+vgn_oat_porridge,Овсянка,80,g
+vgn_oat_porridge,Льняное семя,15,g
+vgn_oat_porridge,Банан,100,g
+vgn_oat_porridge,Орехи грецкие,15,g
+vgn_oat_porridge,Масло подсолнечное,5,ml
+vgn_buckwheat_apple_seeds,Гречка,80,g
+vgn_buckwheat_apple_seeds,Яблоко,100,g
+vgn_buckwheat_apple_seeds,Семечки подсолнечника,15,g
+vgn_buckwheat_apple_seeds,Масло подсолнечное,5,ml
+vgn_smoothie_almond,Банан,150,g
+vgn_smoothie_almond,Яблоко,100,g
+vgn_smoothie_almond,Миндаль,30,g
+vgn_smoothie_almond,Льняное семя,10,g
+vgn_rice_raisins,Рис белый,80,g
+vgn_rice_raisins,Изюм,30,g
+vgn_rice_raisins,Орехи грецкие,15,g
+vgn_rice_raisins,Масло подсолнечное,5,ml
+vgn_lentil_soup,Чечевица,80,g
+vgn_lentil_soup,Морковь,50,g
+vgn_lentil_soup,Лук репчатый,30,g
+vgn_lentil_soup,Помидор,100,g
+vgn_lentil_soup,Масло оливковое,15,ml
+vgn_chickpea_salad,Нут,80,g
+vgn_chickpea_salad,Помидор,100,g
+vgn_chickpea_salad,Огурец,100,g
+vgn_chickpea_salad,Лук репчатый,20,g
+vgn_chickpea_salad,Масло оливковое,15,ml
+vgn_chickpea_salad,Лимон,15,g
+vgn_bean_tomato,Фасоль белая,100,g
+vgn_bean_tomato,Помидор,150,g
+vgn_bean_tomato,Перец сладкий,100,g
+vgn_bean_tomato,Лук репчатый,30,g
+vgn_bean_tomato,Масло оливковое,10,ml
+vgn_buckwheat_mushroom,Гречка,80,g
+vgn_buckwheat_mushroom,Шампиньоны,100,g
+vgn_buckwheat_mushroom,Лук репчатый,30,g
+vgn_buckwheat_mushroom,Масло подсолнечное,10,ml
+vgn_pea_soup,Горох колотый,80,g
+vgn_pea_soup,Картофель,200,g
+vgn_pea_soup,Морковь,50,g
+vgn_pea_soup,Лук репчатый,30,g
+vgn_pea_soup,Масло подсолнечное,10,ml
+vgn_mushroom_pilaf,Рис белый,80,g
+vgn_mushroom_pilaf,Шампиньоны,150,g
+vgn_mushroom_pilaf,Морковь,50,g
+vgn_mushroom_pilaf,Лук репчатый,30,g
+vgn_mushroom_pilaf,Масло оливковое,15,ml
+vgn_tofu_stir,Тофу,200,g
+vgn_tofu_stir,Капуста белокочанная,100,g
+vgn_tofu_stir,Перец сладкий,80,g
+vgn_tofu_stir,Лук репчатый,30,g
+vgn_tofu_stir,Масло подсолнечное,15,ml
+vgn_potato_beans,Картофель,200,g
+vgn_potato_beans,Фасоль белая,100,g
+vgn_potato_beans,Лук репчатый,20,g
+vgn_potato_beans,Масло оливковое,15,ml
+vgn_apple_almonds,Яблоко,150,g
+vgn_apple_almonds,Миндаль,20,g
+vgn_dried_fruit_nuts,Изюм,30,g
+vgn_dried_fruit_nuts,Курага,30,g
+vgn_dried_fruit_nuts,Орехи грецкие,15,g
+vgn_dried_fruit_nuts,Миндаль,15,g
+vgn_seeds_mix,Семечки подсолнечника,25,g
+vgn_seeds_mix,Льняное семя,10,g
+vgn_seeds_mix,Миндаль,20,g
+vgn_seeds_mix,Орехи грецкие,15,g
+paleo_eggs_veggies,Яйцо куриное,150,g
+paleo_eggs_veggies,Бекон копчёный,40,g
+paleo_eggs_veggies,Помидор,80,g
+paleo_eggs_veggies,Шпинат,60,g
+paleo_eggs_veggies,Масло оливковое,10,ml
+paleo_fruit_coconut_bowl,Яблоко,100,g
+paleo_fruit_coconut_bowl,Банан,100,g
+paleo_fruit_coconut_bowl,Кокосовая стружка,20,g
+paleo_fruit_coconut_bowl,Миндаль,20,g
+paleo_walnut_apple_snack,Яблоко,150,g
+paleo_walnut_apple_snack,Орехи грецкие,25,g
+paleo_almond_coconut,Кокосовая стружка,25,g
+paleo_almond_coconut,Миндаль,30,g
+veg_mushroom_creamy_pasta,Макароны,80,g
+veg_mushroom_creamy_pasta,Шампиньоны,100,g
+veg_mushroom_creamy_pasta,Сливки 33%,80,ml
+veg_mushroom_creamy_pasta,Масло сливочное,15,g
+veg_shakshuka,Яйцо куриное,120,g
+veg_shakshuka,Помидор,200,g
+veg_shakshuka,Перец сладкий,80,g
+veg_shakshuka,Лук репчатый,30,g
+veg_shakshuka,Масло оливковое,10,ml
+veg_potato_cheese,Картофель,250,g
+veg_potato_cheese,Сливки 33%,80,ml
+veg_potato_cheese,Сыр Российский,60,g
+veg_potato_cheese,Масло сливочное,15,g
+veg_buckwheat_egg_mushroom,Гречка,80,g
+veg_buckwheat_egg_mushroom,Яйцо куриное,100,g
+veg_buckwheat_egg_mushroom,Шампиньоны,100,g
+veg_buckwheat_egg_mushroom,Лук репчатый,30,g
+veg_buckwheat_egg_mushroom,Масло сливочное,15,g
+veg_lentil_veggie_stew,Чечевица,80,g
+veg_lentil_veggie_stew,Помидор,100,g
+veg_lentil_veggie_stew,Морковь,50,g
+veg_lentil_veggie_stew,Лук репчатый,30,g
+veg_lentil_veggie_stew,Сметана 15%,40,g
+veg_lentil_veggie_stew,Масло оливковое,10,ml
+fasting_pumpkin_millet,Пшено,80,g
+fasting_pumpkin_millet,Тыква,200,g
+fasting_pumpkin_millet,Изюм,20,g
+fasting_buckwheat_pumpkin,Гречка,80,g
+fasting_buckwheat_pumpkin,Тыква,150,g
+fasting_buckwheat_pumpkin,Курага,20,g
+fasting_buckwheat_pumpkin,Масло подсолнечное,3,ml
+fasting_potato_carrot_stew,Картофель,300,g
+fasting_potato_carrot_stew,Морковь,100,g
+fasting_potato_carrot_stew,Лук репчатый,30,g
+fasting_potato_carrot_stew,Помидор,100,g
+fasting_potato_carrot_stew,Масло подсолнечное,5,ml
+fasting_pearl_barley_veggie,Перловка,100,g
+fasting_pearl_barley_veggie,Капуста белокочанная,150,g
+fasting_pearl_barley_veggie,Морковь,80,g
+fasting_pearl_barley_veggie,Лук репчатый,30,g
+fasting_pearl_barley_veggie,Масло подсолнечное,5,ml
+fasting_veggie_borsch,Капуста белокочанная,200,g
+fasting_veggie_borsch,Картофель,200,g
+fasting_veggie_borsch,Свёкла,100,g
+fasting_veggie_borsch,Морковь,80,g
+fasting_veggie_borsch,Лук репчатый,30,g
+fasting_veggie_borsch,Помидор,100,g
+fasting_veggie_borsch,Масло подсолнечное,5,ml
+fasting_rice_pumpkin_raisins,Рис белый,100,g
+fasting_rice_pumpkin_raisins,Тыква,200,g
+fasting_rice_pumpkin_raisins,Изюм,20,g
+fasting_rice_pumpkin_raisins,Масло подсолнечное,3,ml
+fasting_apple_raisins,Яблоко,150,g
+fasting_apple_raisins,Изюм,30,g
+keto_chicken_thigh_cream,Куриное бедро с кожей,200,g
+keto_chicken_thigh_cream,Шампиньоны,80,g
+keto_chicken_thigh_cream,Сливки 33%,100,ml
+keto_chicken_thigh_cream,Масло сливочное,20,g
+keto_chicken_thigh_cream,Шпинат,60,g
+keto_beef_avocado_cheese,Говядина,200,g
+keto_beef_avocado_cheese,Авокадо,100,g
+keto_beef_avocado_cheese,Сыр Чеддер,30,g
+keto_beef_avocado_cheese,Масло оливковое,20,ml
+keto_beef_avocado_cheese,Шпинат,60,g
+keto_turkey_cream_brokkoli,Индейка,200,g
+keto_turkey_cream_brokkoli,Брокколи,100,g
+keto_turkey_cream_brokkoli,Сливки 33%,100,ml
+keto_turkey_cream_brokkoli,Масло сливочное,20,g

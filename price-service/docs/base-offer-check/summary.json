@@ -1,0 +1,33 @@
+{
+  "item_uuid": "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d",
+  "base_offer_uuid": "98d1a508-e4f3-506b-9d41-78c756c4c51a",
+  "url_without_base_offer": "https://search.edadeal.io/api/v4/item/42fb8842-6aca-5ae7-b5eb-bebce44a9c9d?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+  "url_with_base_offer": "https://search.edadeal.io/api/v4/item/42fb8842-6aca-5ae7-b5eb-bebce44a9c9d?baseOfferUuid=98d1a508-e4f3-506b-9d41-78c756c4c51a&disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+  "without_base_offer": {
+    "status": 200,
+    "title": "Молоко ЭкоНива ультрапастеризованное 3.2% 1 л",
+    "quantity": 1.0,
+    "quantityUnit": "л",
+    "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/s/r/an4unahmndrijbkgahseny64",
+    "nearest_count": 3,
+    "parsed_price": 110.0,
+    "offerUuids": [
+      "98d1a508-e4f3-506b-9d41-78c756c4c51a"
+    ]
+  },
+  "with_base_offer": {
+    "status": 200,
+    "title": "Молоко ЭкоНива ультрапастеризованное 3.2% 1 л",
+    "quantity": 1.0,
+    "quantityUnit": "л",
+    "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/s/r/an4unahmndrijbkgahseny64",
+    "nearest_count": 3,
+    "parsed_price": 110.0,
+    "offerUuids": [
+      "98d1a508-e4f3-506b-9d41-78c756c4c51a"
+    ]
+  },
+  "key_fields_equal": true,
+  "behavior": "not_needed",
+  "reason": "Detail without baseOfferUuid returns the same key card fields; search response does not provide baseOfferUuid before detail, while detail response provides offerUuids for final backend output."
+}

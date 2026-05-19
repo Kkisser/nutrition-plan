@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "ingredient_name": "молоко",
+      "amount": 1000,
+      "unit": "ml"
+    },
+    {
+      "ingredient_name": "рис",
+      "amount": 500,
+      "unit": "g"
+    },
+    {
+      "ingredient_name": "яйца",
+      "amount": 10,
+      "unit": "pcs"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+github.com/lightboxre/h3-go v0.0.0-20260318220849-5563f9e017d6 h1:TS7dDbO5JhgRxx57vN1IYpKTxT4VJ0tpLCRqP6uyoC0=
+github.com/lightboxre/h3-go v0.0.0-20260318220849-5563f9e017d6/go.mod h1:VOcEVpiuynGKLOy3k29BiTcBEZcqIJAd/XYqafVqAkI=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

@@ -1,0 +1,228 @@
+{
+  "requests": [
+    {
+      "operation": "get_retailer_info",
+      "url": "https://search.edadeal.io/api/v4/retailer_info?disablePlatformSourceExclusion=true&retailerSlug=5ka",
+      "status_code": 200,
+      "duration_ms": 570,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "search_products",
+      "url": "https://search.edadeal.io/api/v4/search?checkAdult=true&disablePlatformSourceExclusion=true&excludeAlcohol=true&groupBy=sku_or_meta&limit=20&offset=0&retailerUuid=94d98382-42c3-11e6-9419-52540010b608&text=%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE",
+      "status_code": 200,
+      "duration_ms": 215,
+      "items_count": 20,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/f692b4a4-2bc6-5b7d-ac70-e9d6f29e7f9a?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 138,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/42fb8842-6aca-5ae7-b5eb-bebce44a9c9d?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 143,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/0eaab958-81c8-5da1-bf27-85b64f1cd6e5?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 146,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/0ef2f8ae-e7ec-5e41-bb71-b7a21e1ced2f?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 151,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/a488b419-d1d6-5b65-8c14-6fb15be2ba0b?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 137,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/1c2097e7-9494-5ed2-9e74-70b3dd918d65?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 139,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/bea53e6c-5f24-5be5-a3a8-fc1de0689163?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 145,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/5108f928-e5e4-5338-b7c3-c02f9a3417b3?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 141,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "search_products",
+      "url": "https://search.edadeal.io/api/v4/search?checkAdult=true&disablePlatformSourceExclusion=true&excludeAlcohol=true&groupBy=sku_or_meta&limit=20&offset=0&retailerUuid=94d98382-42c3-11e6-9419-52540010b608&text=%D1%80%D0%B8%D1%81",
+      "status_code": 200,
+      "duration_ms": 153,
+      "items_count": 20,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/0939cf6f-0890-5055-80b2-f031e3ada038?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 141,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/e44de284-399d-5d0d-baf6-d86e2c34560f?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 150,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/0e321ead-8055-5699-bef9-517346e871b1?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 153,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/48ead0b1-5552-50a9-aba6-6ceb9f426191?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 158,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/a36cd433-c31e-5286-b256-62ea80fe71ed?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 136,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/59887a50-15cf-5abd-9da8-771302e37947?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 151,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/67051843-a74d-5174-9966-d52756bfb638?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 146,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/54eb30b4-dc72-59d3-b7cf-cdc4d98de172?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 147,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "search_products",
+      "url": "https://search.edadeal.io/api/v4/search?checkAdult=true&disablePlatformSourceExclusion=true&excludeAlcohol=true&groupBy=sku_or_meta&limit=20&offset=0&retailerUuid=94d98382-42c3-11e6-9419-52540010b608&text=%D1%8F%D0%B9%D1%86%D0%B0",
+      "status_code": 200,
+      "duration_ms": 160,
+      "items_count": 20,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/e2a64a73-a818-556c-b781-e535d7f5663b?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 142,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/f00f1a75-3a99-5448-a054-851ae4b3a3d8?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 150,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/9e30218b-b925-5051-b00c-6b48dd937b41?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 152,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/fcd2679c-99ba-5942-a2bf-6f9a832d330e?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 270,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/90989979-c68b-56b4-a39f-7f4e8dff017e?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 128,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/0947df56-5383-58d0-9535-f55beea7702c?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 169,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/abeb613e-613f-56d3-8a7f-e3f10bbdd1ce?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 145,
+      "items_count": 0,
+      "error": ""
+    },
+    {
+      "operation": "get_item_detail",
+      "url": "https://search.edadeal.io/api/v4/item/70aee1d6-e4fe-53c7-b6ed-81b4a1abebf9?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+      "status_code": 200,
+      "duration_ms": 883,
+      "items_count": 0,
+      "error": ""
+    }
+  ]
+}

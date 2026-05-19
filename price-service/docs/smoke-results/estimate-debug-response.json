@@ -1,0 +1,2497 @@
+{
+  "request_id": "4d5732c6-df59-4df5-814d-d2652f2c791b",
+  "status": "ok",
+  "calculated_at": "2026-05-18T11:19:43Z",
+  "is_fully_priced": true,
+  "price_type": "estimated_reference_price",
+  "pricing_scope": "nearest_shops_range",
+  "retailer": "Пятёрочка",
+  "retailer_slug": "5ka",
+  "currency": "RUB",
+  "total_price": 260.99,
+  "min_total_price": 260.99,
+  "max_total_price": 260.99,
+  "price_range": {
+    "min_price": 260.99,
+    "max_price": 260.99
+  },
+  "priced_items_count": 3,
+  "unpriced_items_count": 0,
+  "items": [
+    {
+      "ingredient_name": "молоко",
+      "requested_amount": 1000,
+      "requested_unit": "ml",
+      "status": "priced",
+      "error_message": null,
+      "query": "молоко",
+      "price_range": {
+        "min_price": 110,
+        "max_price": 110
+      },
+      "selected_option": {
+        "total_price": 110,
+        "min_total_price": 110,
+        "max_total_price": 110,
+        "price_range": {
+          "min_price": 110,
+          "max_price": 110
+        },
+        "covered_amount": 1000,
+        "covered_unit": "ml",
+        "packages": [
+          {
+            "product_title": "Молоко ЭкоНива ультрапастеризованное 3.2% 1 л",
+            "item_uuid": "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d",
+            "base_offer_uuid": "98d1a508-e4f3-506b-9d41-78c756c4c51a",
+            "package_amount": 1000,
+            "package_unit": "ml",
+            "unit_price": 110,
+            "unit_price_min": 110,
+            "unit_price_max": 110,
+            "quantity": 1,
+            "subtotal": 110,
+            "subtotal_min": 110,
+            "subtotal_max": 110,
+            "image_url": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/s/r/an4unahmndrijbkgahseny64"
+          }
+        ]
+      },
+      "alternatives": [
+        {
+          "product_title": "Молоко ЭкоНива ультрапастеризованное 3.2% 1 л",
+          "item_uuid": "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d",
+          "base_offer_uuid": "98d1a508-e4f3-506b-9d41-78c756c4c51a",
+          "package_amount": 1000,
+          "package_unit": "ml",
+          "unit_price": 110,
+          "unit_price_min": 110,
+          "unit_price_max": 110,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 110,
+          "min_price_to_cover": 110,
+          "max_price_to_cover": 110,
+          "price_range": {
+            "min_price": 110,
+            "max_price": 110
+          }
+        },
+        {
+          "product_title": "Молоко Красная цена ультрапастеризованное 1.5% 970 мл",
+          "item_uuid": "a488b419-d1d6-5b65-8c14-6fb15be2ba0b",
+          "base_offer_uuid": "e35e4c51-7035-508a-b8e5-4d17e13a9326",
+          "package_amount": 970,
+          "package_unit": "ml",
+          "unit_price": 64,
+          "unit_price_min": 64,
+          "unit_price_max": 64,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 128,
+          "min_price_to_cover": 128,
+          "max_price_to_cover": 128,
+          "price_range": {
+            "min_price": 128,
+            "max_price": 128
+          }
+        },
+        {
+          "product_title": "Молоко Простоквашино пастеризованное 3.2% 1400 мл",
+          "item_uuid": "0eaab958-81c8-5da1-bf27-85b64f1cd6e5",
+          "base_offer_uuid": "aedc9c32-0a8d-58eb-adb2-568a63360432",
+          "package_amount": 1400,
+          "package_unit": "ml",
+          "unit_price": 150,
+          "unit_price_min": 150,
+          "unit_price_max": 150,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 150,
+          "min_price_to_cover": 150,
+          "max_price_to_cover": 150,
+          "price_range": {
+            "min_price": 150,
+            "max_price": 150
+          }
+        },
+        {
+          "product_title": "Молоко пастеризованное Простоквашино 1.5% 930 мл",
+          "item_uuid": "1c2097e7-9494-5ed2-9e74-70b3dd918d65",
+          "base_offer_uuid": "e9c75dbf-10d5-5f66-8a90-b086dea2688d",
+          "package_amount": 930,
+          "package_unit": "ml",
+          "unit_price": 80,
+          "unit_price_min": 80,
+          "unit_price_max": 80,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 160,
+          "min_price_to_cover": 160,
+          "max_price_to_cover": 160,
+          "price_range": {
+            "min_price": 160,
+            "max_price": 160
+          }
+        },
+        {
+          "product_title": "Молоко Северная Долина ультрапастеризованное 3.2% 925 мл",
+          "item_uuid": "0ef2f8ae-e7ec-5e41-bb71-b7a21e1ced2f",
+          "base_offer_uuid": "108088b1-cefc-59ce-9b2a-3034e9a1e61a",
+          "package_amount": 925,
+          "package_unit": "ml",
+          "unit_price": 90,
+          "unit_price_min": 90,
+          "unit_price_max": 94,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 180,
+          "min_price_to_cover": 180,
+          "max_price_to_cover": 188,
+          "price_range": {
+            "min_price": 180,
+            "max_price": 188
+          }
+        },
+        {
+          "product_title": "Молоко Сарафаново пастеризованное 2.5% 930 мл",
+          "item_uuid": "5108f928-e5e4-5338-b7c3-c02f9a3417b3",
+          "base_offer_uuid": "1589f768-20ad-5654-bb23-5064b3d29127",
+          "package_amount": 930,
+          "package_unit": "ml",
+          "unit_price": 90,
+          "unit_price_min": 90,
+          "unit_price_max": 95,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 180,
+          "min_price_to_cover": 180,
+          "max_price_to_cover": 190,
+          "price_range": {
+            "min_price": 180,
+            "max_price": 190
+          }
+        },
+        {
+          "product_title": "Молоко Вкуснотеево пастеризованное 3.2% 900 мл",
+          "item_uuid": "f692b4a4-2bc6-5b7d-ac70-e9d6f29e7f9a",
+          "base_offer_uuid": "7a16c2e4-18dc-5b3f-b264-cb9abf342ad7",
+          "package_amount": 900,
+          "package_unit": "ml",
+          "unit_price": 97,
+          "unit_price_min": 97,
+          "unit_price_max": 97,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 194,
+          "min_price_to_cover": 194,
+          "max_price_to_cover": 194,
+          "price_range": {
+            "min_price": 194,
+            "max_price": 194
+          }
+        },
+        {
+          "product_title": "Молоко Сарафаново Отборное пастеризованное 3.4-4% 930 мл",
+          "item_uuid": "bea53e6c-5f24-5be5-a3a8-fc1de0689163",
+          "base_offer_uuid": "83e96f58-ca42-5841-9a4c-d453c2ec9afc",
+          "package_amount": 930,
+          "package_unit": "ml",
+          "unit_price": 105,
+          "unit_price_min": 105,
+          "unit_price_max": 105,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 210,
+          "min_price_to_cover": 210,
+          "max_price_to_cover": 210,
+          "price_range": {
+            "min_price": 210,
+            "max_price": 210
+          }
+        }
+      ],
+      "debug": {
+        "detail_endpoint_urls": [
+          "https://search.edadeal.io/api/v4/item/f692b4a4-2bc6-5b7d-ac70-e9d6f29e7f9a?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/42fb8842-6aca-5ae7-b5eb-bebce44a9c9d?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/0eaab958-81c8-5da1-bf27-85b64f1cd6e5?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/0ef2f8ae-e7ec-5e41-bb71-b7a21e1ced2f?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/a488b419-d1d6-5b65-8c14-6fb15be2ba0b?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/1c2097e7-9494-5ed2-9e74-70b3dd918d65?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/bea53e6c-5f24-5be5-a3a8-fc1de0689163?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/5108f928-e5e4-5338-b7c3-c02f9a3417b3?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer"
+        ],
+        "nearest_shops": {
+          "0eaab958-81c8-5da1-bf27-85b64f1cd6e5": [
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 150
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 150
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 150
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 150
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 150
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 150
+            }
+          ],
+          "0ef2f8ae-e7ec-5e41-bb71-b7a21e1ced2f": [
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 90,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 94,
+              "old_price": 115
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 94,
+              "old_price": 115
+            }
+          ],
+          "1c2097e7-9494-5ed2-9e74-70b3dd918d65": [
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 80
+            }
+          ],
+          "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 110
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 110
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 110
+            }
+          ],
+          "5108f928-e5e4-5338-b7c3-c02f9a3417b3": [
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 90
+            },
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 95
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 95
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 95
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 90
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 90
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 90
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 90
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 90
+            }
+          ],
+          "a488b419-d1d6-5b65-8c14-6fb15be2ba0b": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 64
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 64
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 64
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 64
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 64
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 64
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 64
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 64
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 64
+            }
+          ],
+          "bea53e6c-5f24-5be5-a3a8-fc1de0689163": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 105
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 105
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 105
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 105
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 105
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 105
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 105
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 105
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 105
+            }
+          ],
+          "f692b4a4-2bc6-5b7d-ac70-e9d6f29e7f9a": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 97
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 97
+            }
+          ]
+        },
+        "price_sources": [
+          {
+            "item_uuid": "f692b4a4-2bc6-5b7d-ac70-e9d6f29e7f9a",
+            "price": 97,
+            "price_max": 97,
+            "price_min": 97,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d",
+            "price": 110,
+            "price_max": 110,
+            "price_min": 110,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "0eaab958-81c8-5da1-bf27-85b64f1cd6e5",
+            "price": 150,
+            "price_max": 150,
+            "price_min": 150,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "0ef2f8ae-e7ec-5e41-bb71-b7a21e1ced2f",
+            "price": 90,
+            "price_max": 94,
+            "price_min": 90,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "a488b419-d1d6-5b65-8c14-6fb15be2ba0b",
+            "price": 64,
+            "price_max": 64,
+            "price_min": 64,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "1c2097e7-9494-5ed2-9e74-70b3dd918d65",
+            "price": 80,
+            "price_max": 80,
+            "price_min": 80,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "bea53e6c-5f24-5be5-a3a8-fc1de0689163",
+            "price": 105,
+            "price_max": 105,
+            "price_min": 105,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "5108f928-e5e4-5338-b7c3-c02f9a3417b3",
+            "price": 90,
+            "price_max": 95,
+            "price_min": 90,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          }
+        ],
+        "pricing_scope": "nearest_shops_range",
+        "raw_field_summary": [
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/m/d/7vppj5yl5sibwf46o5mrjswu",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 9700
+              }
+            },
+            "quantity": 900.0,
+            "quantityUnit": "мл",
+            "title": "Молоко Вкуснотеево пастеризованное 3.2% 900 мл",
+            "uuid": "f692b4a4-2bc6-5b7d-ac70-e9d6f29e7f9a"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/s/r/an4unahmndrijbkgahseny64",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 11000
+              }
+            },
+            "quantity": 1.0,
+            "quantityUnit": "л",
+            "title": "Молоко ЭкоНива ультрапастеризованное 3.2% 1 л",
+            "uuid": "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/n/k/bjhiuloc2iz42j7s7aw2wsay",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 15000
+              }
+            },
+            "quantity": 1400.0,
+            "quantityUnit": "мл",
+            "title": "Молоко Простоквашино пастеризованное 3.2% 1400 мл",
+            "uuid": "0eaab958-81c8-5da1-bf27-85b64f1cd6e5"
+          },
+          {
+            "discountPercent": 22,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/2/h/xh6nsexfopxyyutdj5ny2svy",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 9000,
+                "to": 9400,
+                "type": "range"
+              }
+            },
+            "quantity": 925.0,
+            "quantityUnit": "мл",
+            "title": "Молоко Северная Долина ультрапастеризованное 3.2% 925 мл",
+            "uuid": "0ef2f8ae-e7ec-5e41-bb71-b7a21e1ced2f"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/g/y/jfxvkya6ufr6ape35v5f262m",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 6400
+              }
+            },
+            "quantity": 970.0,
+            "quantityUnit": "мл",
+            "title": "Молоко Красная цена ультрапастеризованное 1.5% 970 мл",
+            "uuid": "a488b419-d1d6-5b65-8c14-6fb15be2ba0b"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/d/t/c3bav7nab467h5msbbdinmye",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 8000
+              }
+            },
+            "quantity": 930.0,
+            "quantityUnit": "мл",
+            "title": "Молоко пастеризованное Простоквашино 1.5% 930 мл",
+            "uuid": "1c2097e7-9494-5ed2-9e74-70b3dd918d65"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/c/x/hvawvesp4y4qhta6ia3gubpe",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 10500
+              }
+            },
+            "quantity": 930.0,
+            "quantityUnit": "мл",
+            "title": "Молоко Сарафаново Отборное пастеризованное 3.4-4% 930 мл",
+            "uuid": "bea53e6c-5f24-5be5-a3a8-fc1de0689163"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/q/l/rjoawgy372nyx42v37j3ajei",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 9000,
+                "to": 9500,
+                "type": "range"
+              }
+            },
+            "quantity": 930.0,
+            "quantityUnit": "мл",
+            "title": "Молоко Сарафаново пастеризованное 2.5% 930 мл",
+            "uuid": "5108f928-e5e4-5338-b7c3-c02f9a3417b3"
+          }
+        ],
+        "rejected_candidates": [],
+        "selected_shop_uuid": ""
+      }
+    },
+    {
+      "ingredient_name": "рис",
+      "requested_amount": 500,
+      "requested_unit": "g",
+      "status": "priced",
+      "error_message": null,
+      "query": "рис",
+      "price_range": {
+        "min_price": 56,
+        "max_price": 56
+      },
+      "selected_option": {
+        "total_price": 56,
+        "min_total_price": 56,
+        "max_total_price": 56,
+        "price_range": {
+          "min_price": 56,
+          "max_price": 56
+        },
+        "covered_amount": 900,
+        "covered_unit": "g",
+        "packages": [
+          {
+            "product_title": "Рис длиннозёрный 900 г",
+            "item_uuid": "e44de284-399d-5d0d-baf6-d86e2c34560f",
+            "base_offer_uuid": "3d187df2-a702-54f1-b033-af16fba38d8f",
+            "package_amount": 900,
+            "package_unit": "g",
+            "unit_price": 56,
+            "unit_price_min": 56,
+            "unit_price_max": 56,
+            "quantity": 1,
+            "subtotal": 56,
+            "subtotal_min": 56,
+            "subtotal_max": 56,
+            "image_url": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/u/z/642xjdmyoyeakghqgux5nohi"
+          }
+        ]
+      },
+      "alternatives": [
+        {
+          "product_title": "Рис длиннозёрный 900 г",
+          "item_uuid": "e44de284-399d-5d0d-baf6-d86e2c34560f",
+          "base_offer_uuid": "3d187df2-a702-54f1-b033-af16fba38d8f",
+          "package_amount": 900,
+          "package_unit": "g",
+          "unit_price": 56,
+          "unit_price_min": 56,
+          "unit_price_max": 56,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 56,
+          "min_price_to_cover": 56,
+          "max_price_to_cover": 56,
+          "price_range": {
+            "min_price": 56,
+            "max_price": 56
+          }
+        },
+        {
+          "product_title": "Рис Увелка круглозерный шлифованный 500 г",
+          "item_uuid": "67051843-a74d-5174-9966-d52756bfb638",
+          "base_offer_uuid": "1fa5d676-96b7-5007-a7c8-77c216843ba6",
+          "package_amount": 500,
+          "package_unit": "g",
+          "unit_price": 68,
+          "unit_price_min": 68,
+          "unit_price_max": 71,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 68,
+          "min_price_to_cover": 68,
+          "max_price_to_cover": 71,
+          "price_range": {
+            "min_price": 68,
+            "max_price": 71
+          }
+        },
+        {
+          "product_title": "Рис Националь для плова 900г, 900 г",
+          "item_uuid": "48ead0b1-5552-50a9-aba6-6ceb9f426191",
+          "base_offer_uuid": "8cadddd3-6a06-52de-bb65-5853d4bcea43",
+          "package_amount": 900,
+          "package_unit": "g",
+          "unit_price": 129.99,
+          "unit_price_min": 129.99,
+          "unit_price_max": 129.99,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 129.99,
+          "min_price_to_cover": 129.99,
+          "max_price_to_cover": 129.99,
+          "price_range": {
+            "min_price": 129.99,
+            "max_price": 129.99
+          }
+        },
+        {
+          "product_title": "Рис Националь Пилаф 800г, 800 г",
+          "item_uuid": "a36cd433-c31e-5286-b256-62ea80fe71ed",
+          "base_offer_uuid": "b90490a3-5d99-54d0-9f15-3702836357ca",
+          "package_amount": 800,
+          "package_unit": "g",
+          "unit_price": 139.99,
+          "unit_price_min": 139.99,
+          "unit_price_max": 139.99,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 139.99,
+          "min_price_to_cover": 139.99,
+          "max_price_to_cover": 139.99,
+          "price_range": {
+            "min_price": 139.99,
+            "max_price": 139.99
+          }
+        },
+        {
+          "product_title": "Рис Националь Бальдо шлифованный среднезерный 800 г",
+          "item_uuid": "0939cf6f-0890-5055-80b2-f031e3ada038",
+          "base_offer_uuid": "2827cd96-4f84-53be-8eeb-645b7c1e9b75",
+          "package_amount": 800,
+          "package_unit": "g",
+          "unit_price": 145,
+          "unit_price_min": 145,
+          "unit_price_max": 145,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 145,
+          "min_price_to_cover": 145,
+          "max_price_to_cover": 145,
+          "price_range": {
+            "min_price": 145,
+            "max_price": 145
+          }
+        },
+        {
+          "product_title": "Рис Селяночка длиннозёрный пропаренный 900 г",
+          "item_uuid": "59887a50-15cf-5abd-9da8-771302e37947",
+          "base_offer_uuid": "df939f9b-64be-5c00-a6ba-5717bca878c3",
+          "package_amount": 900,
+          "package_unit": "g",
+          "unit_price": 145,
+          "unit_price_min": 145,
+          "unit_price_max": 145,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 145,
+          "min_price_to_cover": 145,
+          "max_price_to_cover": 145,
+          "price_range": {
+            "min_price": 145,
+            "max_price": 145
+          }
+        },
+        {
+          "product_title": "Рис Global Village Басмати шлифованный 450г, 450 г",
+          "item_uuid": "0e321ead-8055-5699-bef9-517346e871b1",
+          "base_offer_uuid": "956994e5-81db-53da-bf25-d5adba32eccd",
+          "package_amount": 450,
+          "package_unit": "g",
+          "unit_price": 139.99,
+          "unit_price_min": 139.99,
+          "unit_price_max": 139.99,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 279.98,
+          "min_price_to_cover": 279.98,
+          "max_price_to_cover": 279.98,
+          "price_range": {
+            "min_price": 279.98,
+            "max_price": 279.98
+          }
+        }
+      ],
+      "debug": {
+        "detail_endpoint_urls": [
+          "https://search.edadeal.io/api/v4/item/0939cf6f-0890-5055-80b2-f031e3ada038?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/e44de284-399d-5d0d-baf6-d86e2c34560f?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/0e321ead-8055-5699-bef9-517346e871b1?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/48ead0b1-5552-50a9-aba6-6ceb9f426191?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/a36cd433-c31e-5286-b256-62ea80fe71ed?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/59887a50-15cf-5abd-9da8-771302e37947?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/67051843-a74d-5174-9966-d52756bfb638?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer"
+        ],
+        "nearest_shops": {
+          "0939cf6f-0890-5055-80b2-f031e3ada038": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 145
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 145
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 145
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 145
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 145
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 145
+            }
+          ],
+          "0e321ead-8055-5699-bef9-517346e871b1": [
+            {
+              "shop_uuid": "9825e1d5-eac3-44c5-8563-a3ac0993ddd3",
+              "address": "Москва, Мичуринский проспект, вл27",
+              "lat": 55.697607,
+              "lng": 37.500702,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "2258cea2-b4ea-4e40-ad82-d0499f1e9834",
+              "address": "Москва, Мичуринский проспект, 26",
+              "lat": 55.70017951,
+              "lng": 37.49980956,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "6c80e904-68ce-4eba-885c-9d99e92c931e",
+              "address": "Москва, Мосфильмовская улица, 55",
+              "lat": 55.70396764,
+              "lng": 37.49603009,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "ac595b80-6ea5-4519-8252-a2b8578b0ea5",
+              "address": "Москва, улица Лобачевского, 98, корп. 1",
+              "lat": 55.68433162,
+              "lng": 37.48291946,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "71f982f2-49b9-4c79-b4a8-c574c7d2f259",
+              "address": "Москва, улица Лобачевского, 120, корп. 1",
+              "lat": 55.6969766,
+              "lng": 37.47076858,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "7a6aa2bd-5d12-449d-ab35-6df20372745f",
+              "address": "Москва, Матвеевская улица, 8",
+              "lat": 55.70354207,
+              "lng": 37.47321162,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "66b43aa1-a618-4597-81d1-70e01ad35bcc",
+              "address": "Москва, проспект Вернадского, 29",
+              "lat": 55.68214630701181,
+              "lng": 37.51694402331345,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "4503981c-22d4-40a3-88e0-b4c44a57fc6e",
+              "address": "Москва, улица Лобачевского, 118, корп. 1",
+              "lat": 55.69385918,
+              "lng": 37.46895657,
+              "price": 139.99,
+              "old_price": 164.99
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 139.99,
+              "old_price": 164.99
+            }
+          ],
+          "48ead0b1-5552-50a9-aba6-6ceb9f426191": [
+            {
+              "shop_uuid": "9825e1d5-eac3-44c5-8563-a3ac0993ddd3",
+              "address": "Москва, Мичуринский проспект, вл27",
+              "lat": 55.697607,
+              "lng": 37.500702,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "2258cea2-b4ea-4e40-ad82-d0499f1e9834",
+              "address": "Москва, Мичуринский проспект, 26",
+              "lat": 55.70017951,
+              "lng": 37.49980956,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "6c80e904-68ce-4eba-885c-9d99e92c931e",
+              "address": "Москва, Мосфильмовская улица, 55",
+              "lat": 55.70396764,
+              "lng": 37.49603009,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "ac595b80-6ea5-4519-8252-a2b8578b0ea5",
+              "address": "Москва, улица Лобачевского, 98, корп. 1",
+              "lat": 55.68433162,
+              "lng": 37.48291946,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "71f982f2-49b9-4c79-b4a8-c574c7d2f259",
+              "address": "Москва, улица Лобачевского, 120, корп. 1",
+              "lat": 55.6969766,
+              "lng": 37.47076858,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "7a6aa2bd-5d12-449d-ab35-6df20372745f",
+              "address": "Москва, Матвеевская улица, 8",
+              "lat": 55.70354207,
+              "lng": 37.47321162,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "66b43aa1-a618-4597-81d1-70e01ad35bcc",
+              "address": "Москва, проспект Вернадского, 29",
+              "lat": 55.68214630701181,
+              "lng": 37.51694402331345,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "4503981c-22d4-40a3-88e0-b4c44a57fc6e",
+              "address": "Москва, улица Лобачевского, 118, корп. 1",
+              "lat": 55.69385918,
+              "lng": 37.46895657,
+              "price": 129.99,
+              "old_price": 149.99
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 129.99,
+              "old_price": 149.99
+            }
+          ],
+          "59887a50-15cf-5abd-9da8-771302e37947": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 145
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 145
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 145
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 145
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 145
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 145
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 145
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 145
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 145
+            }
+          ],
+          "67051843-a74d-5174-9966-d52756bfb638": [
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 68,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 71,
+              "old_price": 83
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 71,
+              "old_price": 83
+            }
+          ],
+          "a36cd433-c31e-5286-b256-62ea80fe71ed": [
+            {
+              "shop_uuid": "9825e1d5-eac3-44c5-8563-a3ac0993ddd3",
+              "address": "Москва, Мичуринский проспект, вл27",
+              "lat": 55.697607,
+              "lng": 37.500702,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "7a6aa2bd-5d12-449d-ab35-6df20372745f",
+              "address": "Москва, Матвеевская улица, 8",
+              "lat": 55.70354207,
+              "lng": 37.47321162,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "66b43aa1-a618-4597-81d1-70e01ad35bcc",
+              "address": "Москва, проспект Вернадского, 29",
+              "lat": 55.68214630701181,
+              "lng": 37.51694402331345,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "5eb676f2-9f94-4bad-af66-267587fa69dd",
+              "address": "Москва, Большая Очаковская улица, 2",
+              "lat": 55.69125294,
+              "lng": 37.46807131,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "82fb5fe5-bdff-4562-a599-0cfec604ab45",
+              "address": "Москва, улица Коштоянца, 21А",
+              "lat": 55.67779964,
+              "lng": 37.48999598,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "d23cadca-8d7e-4d0e-b76c-4b1698549eaa",
+              "address": "Москва, проспект Вернадского, 93",
+              "lat": 55.66743156,
+              "lng": 37.49479971,
+              "price": 139.99,
+              "old_price": 179.99
+            },
+            {
+              "shop_uuid": "27a6a984-6903-4f4a-bcb0-c4224b772634",
+              "address": "Москва, проспект Вернадского, 95, корп. 4",
+              "lat": 55.665336,
+              "lng": 37.493746,
+              "price": 139.99,
+              "old_price": 179.99
+            }
+          ],
+          "e44de284-399d-5d0d-baf6-d86e2c34560f": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 56
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 56
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 56
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 56
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 56
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 56
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 56
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 56
+            }
+          ]
+        },
+        "price_sources": [
+          {
+            "item_uuid": "0939cf6f-0890-5055-80b2-f031e3ada038",
+            "price": 145,
+            "price_max": 145,
+            "price_min": 145,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "e44de284-399d-5d0d-baf6-d86e2c34560f",
+            "price": 56,
+            "price_max": 56,
+            "price_min": 56,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "0e321ead-8055-5699-bef9-517346e871b1",
+            "price": 139.99,
+            "price_max": 139.99,
+            "price_min": 139.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "48ead0b1-5552-50a9-aba6-6ceb9f426191",
+            "price": 129.99,
+            "price_max": 129.99,
+            "price_min": 129.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "a36cd433-c31e-5286-b256-62ea80fe71ed",
+            "price": 139.99,
+            "price_max": 139.99,
+            "price_min": 139.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "59887a50-15cf-5abd-9da8-771302e37947",
+            "price": 145,
+            "price_max": 145,
+            "price_min": 145,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "67051843-a74d-5174-9966-d52756bfb638",
+            "price": 68,
+            "price_max": 71,
+            "price_min": 68,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          }
+        ],
+        "pricing_scope": "nearest_shops_range",
+        "raw_field_summary": [
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/a/f/lti7k3bh3pvmk5ghnm5w56zi",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 14500
+              }
+            },
+            "quantity": 800.0,
+            "quantityUnit": "г",
+            "title": "Рис Националь Бальдо шлифованный среднезерный 800 г",
+            "uuid": "0939cf6f-0890-5055-80b2-f031e3ada038"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/u/z/642xjdmyoyeakghqgux5nohi",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 5600
+              }
+            },
+            "quantity": 900.0,
+            "quantityUnit": "г",
+            "title": "Рис длиннозёрный 900 г",
+            "uuid": "e44de284-399d-5d0d-baf6-d86e2c34560f"
+          },
+          {
+            "discountPercent": 16,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/l/f/4z6zlxdspp4/w/h/pm7g75mbxvttbalazfpuryeq",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 13999,
+                "to": 14699,
+                "type": "range"
+              }
+            },
+            "quantity": 450.0,
+            "quantityUnit": "г",
+            "title": "Рис Global Village Басмати шлифованный 450г, 450 г",
+            "uuid": "0e321ead-8055-5699-bef9-517346e871b1"
+          },
+          {
+            "discountPercent": 14,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/l/f/4z6zlxdspp4/x/7/cgij3qb4d7qwbjmhpaktmkz4",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 12999,
+                "to": 13999,
+                "type": "range"
+              }
+            },
+            "quantity": 900.0,
+            "quantityUnit": "г",
+            "title": "Рис Националь для плова 900г, 900 г",
+            "uuid": "48ead0b1-5552-50a9-aba6-6ceb9f426191"
+          },
+          {
+            "discountPercent": 23,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/l/f/4z6zlxdspp4/m/h/aovymrhuo4jzp2qska5mjqci",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 13999,
+                "to": 14699,
+                "type": "range"
+              }
+            },
+            "quantity": 800.0,
+            "quantityUnit": "г",
+            "title": "Рис Националь Пилаф 800г, 800 г",
+            "uuid": "a36cd433-c31e-5286-b256-62ea80fe71ed"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/o/5/z4tlet5sdvkbt72i7vovgjje",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 14500
+              }
+            },
+            "quantity": 900.0,
+            "quantityUnit": "г",
+            "title": "Рис Селяночка длиннозёрный пропаренный 900 г",
+            "uuid": "59887a50-15cf-5abd-9da8-771302e37947"
+          },
+          {
+            "discountPercent": 19,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/p/4/q3qhvlnad35kmosvpz5nz3si",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 6800,
+                "to": 7100,
+                "type": "range"
+              }
+            },
+            "quantity": 500.0,
+            "quantityUnit": "г",
+            "title": "Рис Увелка круглозерный шлифованный 500 г",
+            "uuid": "67051843-a74d-5174-9966-d52756bfb638"
+          }
+        ],
+        "rejected_candidates": [],
+        "selected_shop_uuid": ""
+      }
+    },
+    {
+      "ingredient_name": "яйца",
+      "requested_amount": 10,
+      "requested_unit": "pcs",
+      "status": "priced",
+      "error_message": null,
+      "query": "яйца",
+      "price_range": {
+        "min_price": 94.99,
+        "max_price": 94.99
+      },
+      "selected_option": {
+        "total_price": 94.99,
+        "min_total_price": 94.99,
+        "max_total_price": 94.99,
+        "price_range": {
+          "min_price": 94.99,
+          "max_price": 94.99
+        },
+        "covered_amount": 10,
+        "covered_unit": "pcs",
+        "packages": [
+          {
+            "product_title": "Яйцо куриное столовое Со 10шт",
+            "item_uuid": "90989979-c68b-56b4-a39f-7f4e8dff017e",
+            "base_offer_uuid": "14a0bd08-4729-5446-9b69-b315174d879d",
+            "package_amount": 10,
+            "package_unit": "pcs",
+            "unit_price": 94.99,
+            "unit_price_min": 94.99,
+            "unit_price_max": 94.99,
+            "quantity": 1,
+            "subtotal": 94.99,
+            "subtotal_min": 94.99,
+            "subtotal_max": 94.99,
+            "image_url": "https://leonardo.edadeal.io/dyn/cr/get-edadeal/9041692/6d49b4d620583960025078460265af22/orig"
+          }
+        ]
+      },
+      "alternatives": [
+        {
+          "product_title": "Яйцо куриное столовое Со 10шт",
+          "item_uuid": "90989979-c68b-56b4-a39f-7f4e8dff017e",
+          "base_offer_uuid": "14a0bd08-4729-5446-9b69-b315174d879d",
+          "package_amount": 10,
+          "package_unit": "pcs",
+          "unit_price": 94.99,
+          "unit_price_min": 94.99,
+          "unit_price_max": 94.99,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 94.99,
+          "min_price_to_cover": 94.99,
+          "max_price_to_cover": 94.99,
+          "price_range": {
+            "min_price": 94.99,
+            "max_price": 94.99
+          }
+        },
+        {
+          "product_title": "Яйца Ешь Хорошее куриные столовые СО 10шт., 10 шт",
+          "item_uuid": "70aee1d6-e4fe-53c7-b6ed-81b4a1abebf9",
+          "base_offer_uuid": "7efabb5f-c428-5365-8432-73affb7abe02",
+          "package_amount": 10,
+          "package_unit": "pcs",
+          "unit_price": 99.99,
+          "unit_price_min": 99.99,
+          "unit_price_max": 99.99,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 99.99,
+          "min_price_to_cover": 99.99,
+          "max_price_to_cover": 99.99,
+          "price_range": {
+            "min_price": 99.99,
+            "max_price": 99.99
+          }
+        },
+        {
+          "product_title": "Яйца куриные Выручай С1 6шт., 6 шт",
+          "item_uuid": "fcd2679c-99ba-5942-a2bf-6f9a832d330e",
+          "base_offer_uuid": "b87ba1bc-c1eb-5443-b8e9-fb47fe45bd6a",
+          "package_amount": 6,
+          "package_unit": "pcs",
+          "unit_price": 53.99,
+          "unit_price_min": 53.99,
+          "unit_price_max": 53.99,
+          "quantity_to_cover": 2,
+          "total_price_to_cover": 107.98,
+          "min_price_to_cover": 107.98,
+          "max_price_to_cover": 107.98,
+          "price_range": {
+            "min_price": 107.98,
+            "max_price": 107.98
+          }
+        },
+        {
+          "product_title": "Яйца куриные Yaratelle С0 10 шт. 600 г",
+          "item_uuid": "e2a64a73-a818-556c-b781-e535d7f5663b",
+          "base_offer_uuid": "76be57e2-6835-59fa-ab8a-004f7bbd434b",
+          "package_amount": 10,
+          "package_unit": "pcs",
+          "unit_price": 110,
+          "unit_price_min": 110,
+          "unit_price_max": 110,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 110,
+          "min_price_to_cover": 110,
+          "max_price_to_cover": 110,
+          "price_range": {
+            "min_price": 110,
+            "max_price": 110
+          }
+        },
+        {
+          "product_title": "Яйца куриные Лето коричневые С1 10 шт. 600 г",
+          "item_uuid": "abeb613e-613f-56d3-8a7f-e3f10bbdd1ce",
+          "base_offer_uuid": "3a9b108d-2b5f-577d-b77f-2c21e78d4a32",
+          "package_amount": 10,
+          "package_unit": "pcs",
+          "unit_price": 110,
+          "unit_price_min": 110,
+          "unit_price_max": 110,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 110,
+          "min_price_to_cover": 110,
+          "max_price_to_cover": 110,
+          "price_range": {
+            "min_price": 110,
+            "max_price": 110
+          }
+        },
+        {
+          "product_title": "Яйцо Окское СВ столовое 10шт, 10 шт",
+          "item_uuid": "9e30218b-b925-5051-b00c-6b48dd937b41",
+          "base_offer_uuid": "48479943-98ea-56c0-b458-69ce8a662e2b",
+          "package_amount": 10,
+          "package_unit": "pcs",
+          "unit_price": 169.99,
+          "unit_price_min": 169.99,
+          "unit_price_max": 169.99,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 169.99,
+          "min_price_to_cover": 169.99,
+          "max_price_to_cover": 169.99,
+          "price_range": {
+            "min_price": 169.99,
+            "max_price": 169.99
+          }
+        },
+        {
+          "product_title": "Яйца Выручай куриные столовые С1 20 шт. 1300 г",
+          "item_uuid": "0947df56-5383-58d0-9535-f55beea7702c",
+          "base_offer_uuid": "9d38b182-14cb-5057-ba65-f024dccf6f0d",
+          "package_amount": 20,
+          "package_unit": "pcs",
+          "unit_price": 210,
+          "unit_price_min": 210,
+          "unit_price_max": 210,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 210,
+          "min_price_to_cover": 210,
+          "max_price_to_cover": 210,
+          "price_range": {
+            "min_price": 210,
+            "max_price": 210
+          }
+        },
+        {
+          "product_title": "Яйца куриные Лето С1 коричневые 20 шт.",
+          "item_uuid": "f00f1a75-3a99-5448-a054-851ae4b3a3d8",
+          "base_offer_uuid": "7cd918ac-50c7-5d54-a52d-64bd5c364c1b",
+          "package_amount": 20,
+          "package_unit": "pcs",
+          "unit_price": 240,
+          "unit_price_min": 240,
+          "unit_price_max": 240,
+          "quantity_to_cover": 1,
+          "total_price_to_cover": 240,
+          "min_price_to_cover": 240,
+          "max_price_to_cover": 240,
+          "price_range": {
+            "min_price": 240,
+            "max_price": 240
+          }
+        }
+      ],
+      "debug": {
+        "detail_endpoint_urls": [
+          "https://search.edadeal.io/api/v4/item/e2a64a73-a818-556c-b781-e535d7f5663b?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/f00f1a75-3a99-5448-a054-851ae4b3a3d8?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/9e30218b-b925-5051-b00c-6b48dd937b41?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/fcd2679c-99ba-5942-a2bf-6f9a832d330e?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/90989979-c68b-56b4-a39f-7f4e8dff017e?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/0947df56-5383-58d0-9535-f55beea7702c?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/abeb613e-613f-56d3-8a7f-e3f10bbdd1ce?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer",
+          "https://search.edadeal.io/api/v4/item/70aee1d6-e4fe-53c7-b6ed-81b4a1abebf9?disablePlatformSourceExclusion=true&maxShops=10&type=meta_offer"
+        ],
+        "nearest_shops": {
+          "0947df56-5383-58d0-9535-f55beea7702c": [
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 210
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 210
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 210
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 210
+            }
+          ],
+          "70aee1d6-e4fe-53c7-b6ed-81b4a1abebf9": [
+            {
+              "shop_uuid": "2258cea2-b4ea-4e40-ad82-d0499f1e9834",
+              "address": "Москва, Мичуринский проспект, 26",
+              "lat": 55.70017951,
+              "lng": 37.49980956,
+              "price": 99.99,
+              "old_price": 129.99
+            },
+            {
+              "shop_uuid": "7a6aa2bd-5d12-449d-ab35-6df20372745f",
+              "address": "Москва, Матвеевская улица, 8",
+              "lat": 55.70354207,
+              "lng": 37.47321162,
+              "price": 99.99,
+              "old_price": 124.99
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 99.99,
+              "old_price": 129.99
+            },
+            {
+              "shop_uuid": "a53d73ad-20bb-4734-8e3d-59bca4adc672",
+              "address": "Москва, Ленинский проспект, 83",
+              "lat": 55.68175628,
+              "lng": 37.53719543,
+              "price": 99.99,
+              "old_price": 129.99
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 99.99,
+              "old_price": 129.99
+            },
+            {
+              "shop_uuid": "09e4a4ef-313f-468f-b32c-0822747d6672",
+              "address": "Москва, Ленинский проспект, 130, корп. 1",
+              "lat": 55.668208,
+              "lng": 37.508801,
+              "price": 99.99,
+              "old_price": 124.99
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 99.99,
+              "old_price": 129.99
+            },
+            {
+              "shop_uuid": "d23cadca-8d7e-4d0e-b76c-4b1698549eaa",
+              "address": "Москва, проспект Вернадского, 93",
+              "lat": 55.66743156,
+              "lng": 37.49479971,
+              "price": 99.99,
+              "old_price": 124.99
+            },
+            {
+              "shop_uuid": "27a6a984-6903-4f4a-bcb0-c4224b772634",
+              "address": "Москва, проспект Вернадского, 95, корп. 4",
+              "lat": 55.665336,
+              "lng": 37.493746,
+              "price": 99.99,
+              "old_price": 124.99
+            },
+            {
+              "shop_uuid": "5f192c12-c56b-4f87-adbf-39f6417e449c",
+              "address": "Москва, проспект Вернадского, 105, корп. 4",
+              "lat": 55.66375649,
+              "lng": 37.4864265,
+              "price": 99.99,
+              "old_price": 129.99
+            }
+          ],
+          "90989979-c68b-56b4-a39f-7f4e8dff017e": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 94.99
+            },
+            {
+              "shop_uuid": "27a6a984-6903-4f4a-bcb0-c4224b772634",
+              "address": "Москва, проспект Вернадского, 95, корп. 4",
+              "lat": 55.665336,
+              "lng": 37.493746,
+              "price": 94.99
+            }
+          ],
+          "9e30218b-b925-5051-b00c-6b48dd937b41": [
+            {
+              "shop_uuid": "9825e1d5-eac3-44c5-8563-a3ac0993ddd3",
+              "address": "Москва, Мичуринский проспект, вл27",
+              "lat": 55.697607,
+              "lng": 37.500702,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "6c80e904-68ce-4eba-885c-9d99e92c931e",
+              "address": "Москва, Мосфильмовская улица, 55",
+              "lat": 55.70396764,
+              "lng": 37.49603009,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "ac595b80-6ea5-4519-8252-a2b8578b0ea5",
+              "address": "Москва, улица Лобачевского, 98, корп. 1",
+              "lat": 55.68433162,
+              "lng": 37.48291946,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "71f982f2-49b9-4c79-b4a8-c574c7d2f259",
+              "address": "Москва, улица Лобачевского, 120, корп. 1",
+              "lat": 55.6969766,
+              "lng": 37.47076858,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "7a6aa2bd-5d12-449d-ab35-6df20372745f",
+              "address": "Москва, Матвеевская улица, 8",
+              "lat": 55.70354207,
+              "lng": 37.47321162,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "66b43aa1-a618-4597-81d1-70e01ad35bcc",
+              "address": "Москва, проспект Вернадского, 29",
+              "lat": 55.68214630701181,
+              "lng": 37.51694402331345,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "4503981c-22d4-40a3-88e0-b4c44a57fc6e",
+              "address": "Москва, улица Лобачевского, 118, корп. 1",
+              "lat": 55.69385918,
+              "lng": 37.46895657,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 169.99
+            },
+            {
+              "shop_uuid": "5eb676f2-9f94-4bad-af66-267587fa69dd",
+              "address": "Москва, Большая Очаковская улица, 2",
+              "lat": 55.69125294,
+              "lng": 37.46807131,
+              "price": 169.99
+            }
+          ],
+          "abeb613e-613f-56d3-8a7f-e3f10bbdd1ce": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 110
+            }
+          ],
+          "e2a64a73-a818-556c-b781-e535d7f5663b": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 110
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 110
+            },
+            {
+              "shop_uuid": "730cfad8-e130-4749-9348-6ac813b5db5a",
+              "address": "Москва, Минская улица, 1Г, корп. 4",
+              "lat": 55.71241751,
+              "lng": 37.5007895,
+              "price": 110
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 110
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 110
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 110
+            }
+          ],
+          "f00f1a75-3a99-5448-a054-851ae4b3a3d8": [
+            {
+              "shop_uuid": "052761c1-6775-4ac4-8d9d-2f03c974932b",
+              "address": "Москва, Мичуринский проспект, 9, корп. 3",
+              "lat": 55.70018503,
+              "lng": 37.50644417,
+              "price": 240
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 240
+            },
+            {
+              "shop_uuid": "aad0e239-9cb4-408c-be63-5edb0d266cc5",
+              "address": "Москва, проспект Вернадского, 15",
+              "lat": 55.68596931,
+              "lng": 37.5242869,
+              "price": 240
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 240
+            },
+            {
+              "shop_uuid": "1386c8f3-b15e-471b-916c-2c42056a4164",
+              "address": "Москва, улица Марии Ульяновой, 10",
+              "lat": 55.68119981,
+              "lng": 37.52508233,
+              "price": 240
+            },
+            {
+              "shop_uuid": "33244cb9-6f77-457a-aeec-96a9e5e5aaa8",
+              "address": "Москва, Очаковское шоссе, 6, корп. 2",
+              "lat": 55.69825212,
+              "lng": 37.45707509,
+              "price": 240
+            },
+            {
+              "shop_uuid": "538362ac-afb0-4071-9271-433a1906d851",
+              "address": "Москва, Молодёжная улица, 2/64",
+              "lat": 55.69251317,
+              "lng": 37.54944363,
+              "price": 240
+            },
+            {
+              "shop_uuid": "6bd4a5ea-602a-4711-9154-874561519a0b",
+              "address": "Москва, Университетский проспект, 6, корп. 1",
+              "lat": 55.69847868,
+              "lng": 37.55130048,
+              "price": 240
+            }
+          ],
+          "fcd2679c-99ba-5942-a2bf-6f9a832d330e": [
+            {
+              "shop_uuid": "9825e1d5-eac3-44c5-8563-a3ac0993ddd3",
+              "address": "Москва, Мичуринский проспект, вл27",
+              "lat": 55.697607,
+              "lng": 37.500702,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "6c80e904-68ce-4eba-885c-9d99e92c931e",
+              "address": "Москва, Мосфильмовская улица, 55",
+              "lat": 55.70396764,
+              "lng": 37.49603009,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "ac595b80-6ea5-4519-8252-a2b8578b0ea5",
+              "address": "Москва, улица Лобачевского, 98, корп. 1",
+              "lat": 55.68433162,
+              "lng": 37.48291946,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "5a2b9ce7-a6f2-4c66-9a82-8c23203df81b",
+              "address": "Москва, Веерная улица, 22, корп. 2",
+              "lat": 55.70908468,
+              "lng": 37.48298135,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "71f982f2-49b9-4c79-b4a8-c574c7d2f259",
+              "address": "Москва, улица Лобачевского, 120, корп. 1",
+              "lat": 55.6969766,
+              "lng": 37.47076858,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "7a6aa2bd-5d12-449d-ab35-6df20372745f",
+              "address": "Москва, Матвеевская улица, 8",
+              "lat": 55.70354207,
+              "lng": 37.47321162,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "66b43aa1-a618-4597-81d1-70e01ad35bcc",
+              "address": "Москва, проспект Вернадского, 29",
+              "lat": 55.68214630701181,
+              "lng": 37.51694402331345,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "4503981c-22d4-40a3-88e0-b4c44a57fc6e",
+              "address": "Москва, улица Лобачевского, 118, корп. 1",
+              "lat": 55.69385918,
+              "lng": 37.46895657,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "d5195877-ac3d-4a1e-8dda-275ab8f380ff",
+              "address": "Москва, Веерная улица, 46",
+              "lat": 55.71289534,
+              "lng": 37.48789736,
+              "price": 53.99
+            },
+            {
+              "shop_uuid": "5eb676f2-9f94-4bad-af66-267587fa69dd",
+              "address": "Москва, Большая Очаковская улица, 2",
+              "lat": 55.69125294,
+              "lng": 37.46807131,
+              "price": 53.99
+            }
+          ]
+        },
+        "price_sources": [
+          {
+            "item_uuid": "e2a64a73-a818-556c-b781-e535d7f5663b",
+            "price": 110,
+            "price_max": 110,
+            "price_min": 110,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "f00f1a75-3a99-5448-a054-851ae4b3a3d8",
+            "price": 240,
+            "price_max": 240,
+            "price_min": 240,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "9e30218b-b925-5051-b00c-6b48dd937b41",
+            "price": 169.99,
+            "price_max": 169.99,
+            "price_min": 169.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "fcd2679c-99ba-5942-a2bf-6f9a832d330e",
+            "price": 53.99,
+            "price_max": 53.99,
+            "price_min": 53.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "90989979-c68b-56b4-a39f-7f4e8dff017e",
+            "price": 94.99,
+            "price_max": 94.99,
+            "price_min": 94.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "0947df56-5383-58d0-9535-f55beea7702c",
+            "price": 210,
+            "price_max": 210,
+            "price_min": 210,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "abeb613e-613f-56d3-8a7f-e3f10bbdd1ce",
+            "price": 110,
+            "price_max": 110,
+            "price_min": 110,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          },
+          {
+            "item_uuid": "70aee1d6-e4fe-53c7-b6ed-81b4a1abebf9",
+            "price": 99.99,
+            "price_max": 99.99,
+            "price_min": 99.99,
+            "price_source": "min_nearest_price",
+            "selected_shop_uuid": ""
+          }
+        ],
+        "pricing_scope": "nearest_shops_range",
+        "raw_field_summary": [
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/r/z/q6ek7d6f25yt2dnefphwz62e",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 11000
+              }
+            },
+            "quantity": 10.0,
+            "quantityUnit": "шт",
+            "title": "Яйца куриные Yaratelle С0 10 шт. 600 г",
+            "uuid": "e2a64a73-a818-556c-b781-e535d7f5663b"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/o/6/pgyqw6huaht6uuh2hg5etcii",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 24000
+              }
+            },
+            "quantity": 20.0,
+            "quantityUnit": "шт",
+            "title": "Яйца куриные Лето С1 коричневые 20 шт.",
+            "uuid": "f00f1a75-3a99-5448-a054-851ae4b3a3d8"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/l/f/4z6zlxdspp4/t/r/glls5q6zrmazhcozqqatn42a",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 16999
+              }
+            },
+            "quantity": 10.0,
+            "quantityUnit": "шт",
+            "title": "Яйцо Окское СВ столовое 10шт, 10 шт",
+            "uuid": "9e30218b-b925-5051-b00c-6b48dd937b41"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/l/f/4z6zlxdspp4/a/k/3ypbhyg7ruijcnsdxcpzolyy",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 5399
+              }
+            },
+            "quantity": 6.0,
+            "quantityUnit": "шт",
+            "title": "Яйца куриные Выручай С1 6шт., 6 шт",
+            "uuid": "fcd2679c-99ba-5942-a2bf-6f9a832d330e"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/get-edadeal/9041692/6d49b4d620583960025078460265af22/orig",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 9499
+              }
+            },
+            "title": "Яйцо куриное столовое Со 10шт",
+            "uuid": "90989979-c68b-56b4-a39f-7f4e8dff017e"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/j/w/y7h2iwslqfa7i44k3rg6jvvq",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 21000
+              }
+            },
+            "quantity": 20.0,
+            "quantityUnit": "шт",
+            "title": "Яйца Выручай куриные столовые С1 20 шт. 1300 г",
+            "uuid": "0947df56-5383-58d0-9535-f55beea7702c"
+          },
+          {
+            "discountPercent": 0,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/7/d/hsiz2xjfbknkmmxgpl7rqcgi",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "type": "value",
+                "value": 11000
+              }
+            },
+            "quantity": 10.0,
+            "quantityUnit": "шт",
+            "title": "Яйца куриные Лето коричневые С1 10 шт. 600 г",
+            "uuid": "abeb613e-613f-56d3-8a7f-e3f10bbdd1ce"
+          },
+          {
+            "discountPercent": 24,
+            "imageUrl": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/l/f/4z6zlxdspp4/z/y/f65ta2irxp2rxj4gfpn72hee",
+            "itemType": "meta_offer",
+            "priceData": {
+              "meta": {
+                "currency": "₽",
+                "currencyCode": "RUB",
+                "currencyPosition": "after"
+              },
+              "new": {
+                "from": 9999,
+                "to": 10499,
+                "type": "range"
+              }
+            },
+            "quantity": 10.0,
+            "quantityUnit": "шт",
+            "title": "Яйца Ешь Хорошее куриные столовые СО 10шт., 10 шт",
+            "uuid": "70aee1d6-e4fe-53c7-b6ed-81b4a1abebf9"
+          }
+        ],
+        "rejected_candidates": [],
+        "selected_shop_uuid": ""
+      }
+    }
+  ],
+  "unpriced_items": []
+}

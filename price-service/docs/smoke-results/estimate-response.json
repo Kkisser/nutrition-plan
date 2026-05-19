@@ -1,0 +1,143 @@
+{
+  "request_id": "smoke-final-check",
+  "status": "ok",
+  "calculated_at": "2026-05-18T11:19:43Z",
+  "is_fully_priced": true,
+  "price_type": "estimated_reference_price",
+  "pricing_scope": "nearest_shops_range",
+  "retailer": "Пятёрочка",
+  "retailer_slug": "5ka",
+  "currency": "RUB",
+  "total_price": 260.99,
+  "min_total_price": 260.99,
+  "max_total_price": 260.99,
+  "price_range": {
+    "min_price": 260.99,
+    "max_price": 260.99
+  },
+  "priced_items_count": 3,
+  "unpriced_items_count": 0,
+  "items": [
+    {
+      "ingredient_name": "молоко",
+      "requested_amount": 1000,
+      "requested_unit": "ml",
+      "status": "priced",
+      "error_message": null,
+      "query": "молоко",
+      "price_range": {
+        "min_price": 110,
+        "max_price": 110
+      },
+      "selected_option": {
+        "total_price": 110,
+        "min_total_price": 110,
+        "max_total_price": 110,
+        "price_range": {
+          "min_price": 110,
+          "max_price": 110
+        },
+        "covered_amount": 1000,
+        "covered_unit": "ml",
+        "packages": [
+          {
+            "product_title": "Молоко ЭкоНива ультрапастеризованное 3.2% 1 л",
+            "item_uuid": "42fb8842-6aca-5ae7-b5eb-bebce44a9c9d",
+            "base_offer_uuid": "98d1a508-e4f3-506b-9d41-78c756c4c51a",
+            "package_amount": 1000,
+            "package_unit": "ml",
+            "unit_price": 110,
+            "unit_price_min": 110,
+            "unit_price_max": 110,
+            "quantity": 1,
+            "subtotal": 110,
+            "subtotal_min": 110,
+            "subtotal_max": 110,
+            "image_url": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/s/r/an4unahmndrijbkgahseny64"
+          }
+        ]
+      }
+    },
+    {
+      "ingredient_name": "рис",
+      "requested_amount": 500,
+      "requested_unit": "g",
+      "status": "priced",
+      "error_message": null,
+      "query": "рис",
+      "price_range": {
+        "min_price": 56,
+        "max_price": 56
+      },
+      "selected_option": {
+        "total_price": 56,
+        "min_total_price": 56,
+        "max_total_price": 56,
+        "price_range": {
+          "min_price": 56,
+          "max_price": 56
+        },
+        "covered_amount": 900,
+        "covered_unit": "g",
+        "packages": [
+          {
+            "product_title": "Рис длиннозёрный 900 г",
+            "item_uuid": "e44de284-399d-5d0d-baf6-d86e2c34560f",
+            "base_offer_uuid": "3d187df2-a702-54f1-b033-af16fba38d8f",
+            "package_amount": 900,
+            "package_unit": "g",
+            "unit_price": 56,
+            "unit_price_min": 56,
+            "unit_price_max": 56,
+            "quantity": 1,
+            "subtotal": 56,
+            "subtotal_min": 56,
+            "subtotal_max": 56,
+            "image_url": "https://leonardo.edadeal.io/dyn/cr/l/offers/mnkcmma/s/n/iexj4lk5ebi/u/z/642xjdmyoyeakghqgux5nohi"
+          }
+        ]
+      }
+    },
+    {
+      "ingredient_name": "яйца",
+      "requested_amount": 10,
+      "requested_unit": "pcs",
+      "status": "priced",
+      "error_message": null,
+      "query": "яйца",
+      "price_range": {
+        "min_price": 94.99,
+        "max_price": 94.99
+      },
+      "selected_option": {
+        "total_price": 94.99,
+        "min_total_price": 94.99,
+        "max_total_price": 94.99,
+        "price_range": {
+          "min_price": 94.99,
+          "max_price": 94.99
+        },
+        "covered_amount": 10,
+        "covered_unit": "pcs",
+        "packages": [
+          {
+            "product_title": "Яйцо куриное столовое Со 10шт",
+            "item_uuid": "90989979-c68b-56b4-a39f-7f4e8dff017e",
+            "base_offer_uuid": "14a0bd08-4729-5446-9b69-b315174d879d",
+            "package_amount": 10,
+            "package_unit": "pcs",
+            "unit_price": 94.99,
+            "unit_price_min": 94.99,
+            "unit_price_max": 94.99,
+            "quantity": 1,
+            "subtotal": 94.99,
+            "subtotal_min": 94.99,
+            "subtotal_max": 94.99,
+            "image_url": "https://leonardo.edadeal.io/dyn/cr/get-edadeal/9041692/6d49b4d620583960025078460265af22/orig"
+          }
+        ]
+      }
+    }
+  ],
+  "unpriced_items": []
+}
