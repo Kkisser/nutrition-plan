@@ -27,10 +27,11 @@ playwright/.cache/
 .DS_Store
 Thumbs.db
 
-# --- IDE ---
+# --- IDE / agent tooling ---
 .idea/
 .vscode/
 *.swp
+.claude/
 
 # --- большие архивы (доступны отдельно) ---
 Документация_ВКР.zip
